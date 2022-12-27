@@ -7,7 +7,7 @@ Architectural diagrams are my thing and [Miro](https://miro.com/app/) is my best
 
 I've built the following architectures over time. More details about them in their folders!
 
-1. [ETL pipeline for data migration to AWS](/Cool%20stuff/ETL%20for%20migration%20to%20AWS)
+1. [ETL pipeline for data migration to AWS](/Cool%20stuff/ETL%20for%20migration%20to%20AWS/ETL%20migration%20to%20AWS.md)
 
 
 - - -
